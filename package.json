@@ -1,7 +1,7 @@
 {
   "name": "MUSIC-BOT",
   "version": "0.0.1",
-  "description": "DISCORD.JS LETEST MUSIC BOT",
+  "description": "Carbide Music Bot",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
